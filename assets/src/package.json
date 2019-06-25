@@ -1,0 +1,12 @@
+{
+  "name": "contents-viewer",
+  "version": "1.0.0",
+  "description": "develop front end",
+  "dependencies": {},
+  "devDependencies": {
+    "@vue/cli": "^3.8.4",
+    "eslint": "^5.16.0"
+  },
+  "author": "kantaro",
+  "license": "ISC"
+}

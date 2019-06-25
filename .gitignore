@@ -1,0 +1,4 @@
+assets/src/node_modules
+assets/src/js/contents-viewer/node_modules
+logs/golang
+logs/nginx
